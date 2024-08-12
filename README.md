@@ -5,13 +5,15 @@ Special repository with support material for my MFI 2024 keynote.
 
 ### [Jerguš Suja](https://orcid.org/0009-0009-3421-3841)
 
-Jerguš Suja received the Master of Engineering degree in the field of mathematical engineering from the Brno University of Technology, Czech Republic, where he is currently pursuing the Ph.D. degree in the field of applied mathematics. He is a Senior Developer with the Department of Software Development, ERA. His main research interests include in the field of mathematical statistics in stochastic and dynamic optimization, together with reinforcement learning applications.
+Jerguš Suja received the Master of Engineering degree in the field of mathematical engineering from the Brno University of Technology, Czech Republic, where he is currently pursuing the Ph.D. degree in the field of applied mathematics. He is a Senior Developer with the Department of Software Development, ERA. His main research interests include the field of mathematical statistics in stochastic and dynamic optimization, together with reinforcement learning applications.
 
 ### [Pavel Kulmon](https://orcid.org/0000-0003-3876-3460)
 
-Pavel Kulmon received the Master of Engineering degree in the field of geomatics and Ph.D. degree in systems engineering from the Czech Technical University, Prague, Czech Republic. He is a Senior Researcher with the Department of Research and Analysis, ERA. His main research interests include in the field of statistical inference with focus on bayesian methods, together with machine learning, and reinforcement learning applications.
+Pavel Kulmon received the Master of Engineering degree in the field of geomatics and Ph.D. degree in systems engineering from the Czech Technical University, Prague, Czech Republic. He is a Senior Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of statistical inference with focus on bayesian methods, together with machine learning, and reinforcement learning applications.
 
 ### [Matěj Benko](https://orcid.org/0009-0005-8311-6301)
+
+Matej Benko received the Master of Engineering degree in the field of mathematical engineering from the Brno University of Technology, Czech Republic, where he is currently pursuing the Ph.D. degree in the field of applied mathematics.,He is a Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of mathematical statistics, probability theory, and theory of information.
 
 ### [ERA](https://www.era.aero/en)
 
