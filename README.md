@@ -1,7 +1,8 @@
-# MFI-2024
-Special repository with support material for my MFI 2024 keynote.
+# Automatic Scheduling of Multistatic Passive Surveillance Sensor
 
-## Authors
+Special repository with support material for our MFI 2024 keynote.
+
+## Research team
 
 ### [Jerguš Suja](https://orcid.org/0009-0009-3421-3841)
 
@@ -15,6 +16,12 @@ Pavel Kulmon received the Master of Engineering degree in the field of geomatics
 
 Matej Benko received the Master of Engineering degree in the field of mathematical engineering from the Brno University of Technology, Czech Republic, where he is currently pursuing the Ph.D. degree in the field of applied mathematics.,He is a Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of mathematical statistics, probability theory, and theory of information.
 
+### Petra Štukovská
+
+TBD.
+
+## The company
+
 ### [ERA](https://www.era.aero/en)
 
 ERA (a member of OMNIPOL group) is a leading company in multilateration, multistatic surveillance, and reconnaissance technology. Unrivalled experience in passive surveillance sensor development provides ERA with unique know-how to deliver comprehensive solutions for global markets. It develops, manufacture and implement mission-critical systems for military and civil purposes.
@@ -25,7 +32,7 @@ Over last 3 decades, ERA has reached number of more than 160 installations, depl
 
 ## Literature
 
-1. Vaughan, I. Clarkson (2003). The Arithmetic of Receiver Scheduling for Electronic Support
-2. Vaughan, I. Clarkson, (2004). Optimal Periodic Sensor Scheduling in Electronic Support
-3. https://en.wikipedia.org/wiki/Farey_sequence
-4. Glaude, H., Enderli, C., Grandin, J.-F., Pietquin, O. (2015). Learning of scanning strategies for electronic support using predictive state representations https://hal.inria.fr/hal-01225807
+1. [Vaughan, I. Clarkson (2003). *The Arithmetic of Receiver Scheduling for Electronic Support*](https://staff.itee.uq.edu.au/vaughan/Publications/arithmetic-es.pdf)
+2. [Vaughan, I. Clarkson, (2004). *Optimal Periodic Sensor Scheduling in Electronic Support*](https://staff.itee.uq.edu.au/vaughan/Publications/dasp-04a.pdf)
+3. [Wikipedia: Farrey Sequence](https://en.wikipedia.org/wiki/Farey_sequence)
+4. [Glaude, H., Enderli, C., Grandin, J.-F., Pietquin, O. (2015). *Learning of scanning strategies for electronic support using predictive state representations*](https://hal.inria.fr/hal-01225807)
