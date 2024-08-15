@@ -16,9 +16,9 @@ Pavel Kulmon received the Master of Engineering degree in the field of geomatics
 
 Matej Benko received the Master of Engineering degree in the field of mathematical engineering from the Brno University of Technology, Czech Republic, where he is currently pursuing the Ph.D. degree in the field of applied mathematics.,He is a Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of mathematical statistics, probability theory, and theory of information.
 
-### Petra Štukovská
+### [Petra Štukovská](https://orcid.org/0009-0004-0575-1492)
 
-TBD.
+Petra Štukovská (formerly Cabalková) received the Master degree in the field of Statistics and Data Analysis from the Masaryk University in Brno, Czech Republic and Ph.D. degree in the field of Electronics and Communication Technologies from the Brno University of Technology, Czech Republic. She is a Senior Researcher with the Department of Research and Analysis, ERA. Her current focus is on data analysis in the field of radar data processing.
 
 ## The company
 
