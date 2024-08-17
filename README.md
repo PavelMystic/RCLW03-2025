@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Automatic Scheduling of Multistatic Passive Surveillance Sensor
 ---
 
 # About the keynote
