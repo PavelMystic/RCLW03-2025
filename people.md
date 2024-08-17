@@ -3,8 +3,6 @@ layout: page
 title: Research team
 ---
 
-# Research team
-
 ## [Jerguš Suja](https://orcid.org/0009-0009-3421-3841)
 
 <img src="img/jsuja.jfif" alt="Jerguš Suja" width="100"/>
