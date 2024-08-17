@@ -8,6 +8,7 @@ This presentation focuses on the problem of multi-static passive sensor scheduli
 ## Our contributions
 
 1. [P. Kulmon, J. Suja and M. Benko, *"Scheduling of Multi-Function Sensor,"* in IEEE Transactions on Radar Systems, vol. 1, pp. 729-739, 2023, doi: 10.1109/TRS.2023.3335208](https://ieeexplore.ieee.org/document/10325557)
-2. J. Suja and P. Kulmon, *"Scalarization of multi-function sensor scheduling problem"* to appear at New Trends in Signal Processing NTSP 2024
-3. J. Suja, P. Kulmon and M. Benko, *"Scheduling of multi-function multistatic sensor"*, submitted to IEEE Transactions on Aerospace and Electronic Systems
+2. [J. Pikman, *Optimization of Tuning Plans for a Passive Surveillance System*, diploma thesis at CTU in Prague, under supervision of P. Sucha, P. Kulmon and J.Suja](https://dspace.cvut.cz/handle/10467/114901?locale-attribute=en)
+3. J. Suja and P. Kulmon, *"Scalarization of multi-function sensor scheduling problem"* to appear at New Trends in Signal Processing NTSP 2024
+4. J. Suja, P. Kulmon and M. Benko, *"Scheduling of multi-function multistatic sensor"*, submitted to IEEE Transactions on Aerospace and Electronic Systems
 
