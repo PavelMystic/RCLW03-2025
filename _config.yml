@@ -1,4 +1,12 @@
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
+
+author:
+  name: Pavel Kulmon
+  email: "kulmon@seznam.cz"
+
+description: >
+  Special repository with support material for our MFI 2024 keynote.
 
 minima:
   skin: dark

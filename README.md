@@ -1,6 +1,6 @@
 # Automatic Scheduling of Multistatic Passive Surveillance Sensor
 
-Special repository with support material for our MFI 2024 keynote.
+
 
 ## About the keynote
 
