@@ -1,7 +1,6 @@
 ---
 layout: page
 title: ERA
-permalink: /era/
 ---
 
 # [ERA](https://www.era.aero/en)

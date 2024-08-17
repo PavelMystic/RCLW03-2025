@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Research team
-permalink: /research_team/
 ---
 
 # Research team
 
 ## [Jerguš Suja](https://orcid.org/0009-0009-3421-3841)
 
-<img src="{{site.url}}/img/jsuja.jfif" alt="Jerguš Suja" width="100"/>
+<img src="img/jsuja.jfif" alt="Jerguš Suja" width="100"/>
 
 
 Jerguš Suja received the Master of Engineering degree in the field of mathematical engineering from the Brno University of Technology, Czech Republic, where he is currently pursuing the Ph.D. degree in the field of applied mathematics. He is a Senior Developer with the Department of Software Development, ERA. His main research interests include the field of mathematical statistics in stochastic and dynamic optimization, together with reinforcement learning applications.
