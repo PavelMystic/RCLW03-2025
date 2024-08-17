@@ -14,3 +14,7 @@ minima:
 header_pages:
   - people.md
   - era.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
