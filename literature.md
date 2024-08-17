@@ -1,3 +1,9 @@
+---
+layout: page
+title: Literature
+permalink: /literature/
+---
+
 # Literature
 
 Here we summarize the most important pieces of literature available on different topics from the presentation.

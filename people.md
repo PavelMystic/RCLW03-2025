@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research team
+permalink: /research_team/
+---
+
 # Research team
 
 ## [Jerguš Suja](https://orcid.org/0009-0009-3421-3841)
