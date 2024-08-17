@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Automatic Scheduling of Multistatic Passive Surveillance Sensor
 ---
 
