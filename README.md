@@ -35,6 +35,12 @@ ERA has brought to the world a novel passive medium range surveillance sensor ca
 Mentioned sensors let grow a broad ecosystem consisting of sensors’ performance prediction and evaluation tools and data mining tools together with a full virtual EW scene simulator to help military intelligence.
 Over last 3 decades, ERA has reached number of more than 160 installations, deployed in over 68 countries on 5 continents with 24/7 operations fulfilling demanding customer requirements. Nevertheless, more important than given number of references is the experience ERA achieved and lessons learnt during implementation of our solutions. The company intends to continue introducing new technologies to adapt to tomorrow´s challenges.
 
+## Our contributions
+
+1. [P. Kulmon, J. Suja and M. Benko, *"Scheduling of Multi-Function Sensor,"* in IEEE Transactions on Radar Systems, vol. 1, pp. 729-739, 2023, doi: 10.1109/TRS.2023.3335208](https://ieeexplore.ieee.org/document/10325557)
+2. J. Suja and P. Kulmon, *"Scalarization of multi-function sensor scheduling problem"* to appear at New Trends in Signal Processing NTSP 2024
+3. J. Suja, P. Kulmon and M. Benko, *"Scheduling of multi-function multistatic sensor"*, submitted to IEEE Transactions on Aerospace and Electronic Systems
+
 ## Literature
 
 1. [Vaughan, I. Clarkson (2003). *The Arithmetic of Receiver Scheduling for Electronic Support*](https://staff.itee.uq.edu.au/vaughan/Publications/arithmetic-es.pdf)
