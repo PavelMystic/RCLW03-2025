@@ -4,5 +4,5 @@ minima:
   skin: dark
 
 header_pages:
-  people.md
-  era.md
+  - people.md
+  - era.md
