@@ -3,8 +3,6 @@ layout: page
 title: Literature
 ---
 
-## Literature
-
 Here we summarize the most important pieces of literature available on different topics from the presentation.
 
 1. [Vaughan, I. Clarkson (2003). *The Arithmetic of Receiver Scheduling for Electronic Support*](https://staff.itee.uq.edu.au/vaughan/Publications/arithmetic-es.pdf)

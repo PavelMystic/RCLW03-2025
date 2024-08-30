@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ERA
+title: About the company
 ---
 
-# [ERA](https://www.era.aero/en)
+## [ERA](https://www.era.aero/en)
 
 ERA (a member of OMNIPOL group) is a leading company in multilateration, multistatic surveillance, and reconnaissance technology. Unrivalled experience in passive surveillance sensor development provides ERA with unique know-how to deliver comprehensive solutions for global markets. It develops, manufacture and implement mission-critical systems for military and civil purposes.
 ERA made air traffic control history when deploying the first multilateration system and introducing gate-to-gate surveillance.
