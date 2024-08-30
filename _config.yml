@@ -12,6 +12,7 @@ minima:
   skin: dark
 
 header_pages:
+  - literature.md
   - people.md
   - era.md
 

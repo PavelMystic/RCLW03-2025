@@ -3,7 +3,7 @@ layout: page
 title: Literature
 ---
 
-# Literature
+## Literature
 
 Here we summarize the most important pieces of literature available on different topics from the presentation.
 
