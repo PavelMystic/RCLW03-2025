@@ -7,7 +7,7 @@ title: Research team
 
 <img src="img/pkulmon.jpg" alt="Pavel Kulmon" width="150"/>
 
-contact: p.kulmon@era.aero
+contact: p.kulmon (at) era.aero
 
 Pavel Kulmon received the Master of Engineering degree in the field of geomatics and Ph.D. degree in systems engineering from the Czech Technical University, Prague, Czech Republic. He is a Senior Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of statistical inference with focus on bayesian methods, together with machine learning, and reinforcement learning applications.
 
