@@ -6,7 +6,7 @@ author:
   email: "kulmon@seznam.cz"
 
 description: >
-  Special repository with support material for our MFI 2024 keynote.
+  Special repository with support material for our *Accelerating statistical inference and experimental design with machine learning* workshop poster session contribution.
 
 minima:
   skin: dark
