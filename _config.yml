@@ -3,10 +3,10 @@ remote_theme: jekyll/minima
 
 author:
   name: Pavel Kulmon
-  email: "kulmon@seznam.cz"
+  email: "p.kulmon@era.aero"
 
 description: >
-  Special repository with support material for our *Accelerating statistical inference and experimental design with machine learning* workshop poster session contribution.
+  Special repository with support material for our "Accelerating statistical inference and experimental design with machine learning" workshop poster session contribution.
 
 minima:
   skin: dark

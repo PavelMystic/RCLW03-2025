@@ -9,7 +9,7 @@ title: Research team
 
 contact: p.kulmon (at) era.aero
 
-Pavel Kulmon received the Master of Engineering degree in the field of geomatics and Ph.D. degree in systems engineering from the Czech Technical University, Prague, Czech Republic. He is a Senior Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of statistical inference with focus on bayesian methods, together with machine learning, and reinforcement learning applications.
+Pavel Kulmon received the Master of Engineering degree in the field of geomatics and Ph.D. degree in systems engineering at the Czech Technical University in Prague, Czech Republic. He is a Senior Researcher with the Department of Research and Analysis, ERA. His main research interests include the field of statistical inference with focus on bayesian methods, together with machine learning, and reinforcement learning applications.
 
 ## Jerguš Suja [ORCiD](https://orcid.org/0009-0009-3421-3841), [LinkedIn](https://www.linkedin.com/in/jergu%C5%A1-suja-20136b148/)
 
@@ -26,7 +26,7 @@ Jerguš Suja received the Master of Engineering degree in the field of mathemati
 
 contact: p.stukovska (at) era.aero
 
-Petra Štukovská (formerly Cabalková) received the Master degree in the field of Statistics and Data Analysis from the Masaryk University in Brno, Czech Republic and Ph.D. degree in the field of Electronics and Communication Technologies from the Brno University of Technology, Czech Republic. She is a Senior Researcher with the Department of Research and Analysis, ERA. Her current focus is on data analysis in the field of radar data processing.
+Petra Štukovská (formerly Cabalková) received the Master degree in the field of Statistics and Data Analysis from the Masaryk University in Brno, Czech Republic and Ph.D. degree in the field of Electronics and Communication Technologies from the Brno University of Technology, Czech Republic. She is Head of the Department of Research and Analysis, ERA. Her professional focus is on data analysis in the field of radar data processing.
 
 ## Matěj Benko [ORCiD](https://orcid.org/0009-0005-8311-6301)
 
