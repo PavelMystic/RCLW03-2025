@@ -19,3 +19,5 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+markdown: GFM
